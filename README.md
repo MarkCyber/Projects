@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/superhumanfitness">YouTuber</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/Marksecpro">Programmer</a>, <a href="https://www.linkedin.com/in/mark-farag-73b29216a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/superhumanfitness">YouTuber</a></h1>
 
 <h2>👨‍💻 Coding & Cybersecurity Projects:</h2>
 
