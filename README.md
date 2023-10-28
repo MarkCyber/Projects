@@ -4,7 +4,7 @@
 
 - <b>Penetration Testing & Malware Creation (Python, NIM, Sliver Shellcode, etc)</b>
   - [NIM Malware Script](https://github.com/MarkSecPro/MarkSecPro/blob/main/MalwareScript)
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Sliver Shellcode Generation for NIM Malware Script](https://github.com/MarkSecPro/MarkSecPro/blob/main/ShellcodeViaSliver) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
