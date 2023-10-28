@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Coding & Cybersecurity Projects:</h2>
 
-  - [Java grade sheet](https://github.com/marksecpro)
+  - [NIM Malware Script](https://github.com/MarkSecPro/MarkSecPro/blob/main/MalwareScript)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
