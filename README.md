@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Coding & Cybersecurity Projects:</h2>
 
-- <b>Penetration Testing & Malware Creation (Python, NIM, Sliver Shellcode, etc)</b>
+- <b>Malware Creation (NIM + Sliver Shellcode Generation)</b>
   - [NIM Malware Script](https://github.com/MarkSecPro/MarkSecPro/blob/main/MalwareScript)
   - [Sliver Shellcode Generation for NIM Malware Script](https://github.com/MarkSecPro/MarkSecPro/blob/main/ShellcodeViaSliver) <b><i></b></i>
 
