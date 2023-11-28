@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/Marksecpro">Cybersecurity Professional</a>& <a href="https://www.linkedin.com/in/mark-farag-73b29216a/">Penetration Tester</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/Marksecpro">Cybersecurity Professional</a> & <a href="https://www.linkedin.com/in/mark-farag-73b29216a/">Penetration Tester</a></h1>
 
 <h2>👨‍💻 Coding & Cybersecurity Projects:</h2>
 
