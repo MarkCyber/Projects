@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/><a href="https://github.com/Marksecpro">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/mark-farag-73b29216a/">& Penetration Tester</a></h1>
 
-<h2>👨‍💻 Coding & Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity, Penetration Testing & Coding Projects:</h2>
 
 - <b>Malware Creation (NIM + Sliver Shellcode Generation)</b>
   - [NIM Malware Script](https://github.com/MarkSecPro/MarkSecPro/blob/main/MalwareScript)
