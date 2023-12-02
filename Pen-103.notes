@@ -1,0 +1,11 @@
+Installing kali linux: 
+VMBox on windows machine, VMWare on mac to run Kali in a virtual machine
+Graphical installation using about 50% of RAM and 40% of CPU
+Regular boot options (no forensics mode etc which avoids automatically running drivers etc).
+
+Sudo apt upgrade
+
+
+
+
+
